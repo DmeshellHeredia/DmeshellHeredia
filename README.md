@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Michael
 
-<!--
-**DmeshellHeredia/DmeshellHeredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Desarrollo de Software construyendo mi portafolio  
+🧠 Enfocado en lógica, arquitectura y buenas prácticas  
+🚀 Desarrollando proyectos reales con diferentes tecnologías  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyecto destacado
+
+### Interactive-Web-Platform
+🔗 [https://github.com/DmeshellHeredia/Proyecto-Final-PW  ](https://github.com/DmeshellHeredia/Interactive-Web-Platform.git)
+
+Aplicación web desarrollada como proyecto final, enfocada en aplicar conceptos completos de desarrollo frontend.
+
+- Estructura completa de aplicación web
+- Manejo de lógica y UI
+- Buenas prácticas en desarrollo frontend
+- Proyecto base para evolución a aplicaciones más complejas
+
+---
+
+## 🛠️ Tecnologías
+
+- JavaScript (Vanilla)
+- HTML / CSS
+- PHP 
+- Web APIs
+
+---
+
+## 📈 Actualmente
+
+- Mejorando arquitectura en JavaScript
+- Aprendiendo modularización
+- Construyendo proyectos para portafolio
+
+---
+
+## 📫 Contacto
+
+GitHub: https://github.com/DmeshellHeredia
