@@ -38,7 +38,7 @@ Aplicación web desarrollada como proyecto final enfocada en frontend.
 - 🐍 Python (NLP, automatización, backend)
 - 💻 C#
 - 🗄️ SQL
-- 🌐 JavaScript (Vanilla)
+- 🌐 JavaScript
 - 🎨 HTML / CSS
 - 🐘 PHP
 - 🧩 WordPress
