@@ -1,55 +1,61 @@
 # 👋 Hola, soy Michael
 
-💻 Estudiante de Desarrollo de Software construyendo un portafolio sólido  
-🧠 Enfocado en lógica, arquitectura y buenas prácticas  
-🚀 Desarrollando soluciones reales con tecnologías modernas  
+💻 Estudiante de Desarrollo de Software construyendo proyectos fullstack con foco en arquitectura, lógica y sistemas mantenibles.  
+🧠 Interesado en backend, NLP, contratos entre capas y diseño defensivo.  
+🚀 Construyendo un portafolio orientado a proyectos reales y criterio técnico.
 
 ---
 
 ## 🚀 Proyecto destacado
 
+### 🌸 FlowerMatch
+🔗 https://github.com/DmeshellHeredia/flowermatch
+
+Sistema de recomendación floral fullstack con fallback multinivel (Python → PHP → TypeScript), degradación explícita y validación de contratos entre capas.
+
+- 🌐 Frontend en Next.js + TypeScript
+- 🐘 Backend API en PHP
+- 🧠 Motor de recomendaciones en Python
+- 🔄 Fallback automático entre motores de recomendación
+- 🔐 JWT en cookies httpOnly + protección CSRF
+- 🧪 ~500 verificaciones automatizadas entre frontend, backend y Python
+- 🛡️ Validaciones backend, rate limiting y checks preventivos de integridad
+- 📦 Tooling para sincronizar datos compartidos entre capas
+
+---
+
 ### 🎓 ITLA Chatbot (IA local)
 🔗 https://github.com/DmeshellHeredia/itla-chatbot
 
-Asistente virtual inteligente para el Instituto Tecnológico de Las Américas (ITLA), desarrollado completamente en Python con un enfoque híbrido de NLP.
+Asistente virtual inteligente para el Instituto Tecnológico de Las Américas (ITLA), desarrollado completamente en Python con enfoque híbrido de NLP.
 
 - 🔎 Matching por keywords + fuzzy matching + búsqueda semántica (FAISS)
 - ⚡ Funciona 100% offline (sin APIs externas)
 - 🌐 Interfaz web con Gradio + modo CLI
-- 🧪 28/28 tests automatizados (100% pass)
+- 🧪 Tests automatizados
 - 📚 Sistema escalable basado en intents y variantes
-
----
-
-### 🌐 Interactive Web Platform
-🔗 https://github.com/DmeshellHeredia/Interactive-Web-Platform
-
-Aplicación web desarrollada como proyecto final enfocada en frontend.
-
-- Estructura completa de aplicación web
-- Manejo de lógica y UI
-- Buenas prácticas en desarrollo frontend
-- Base para proyectos más complejos
 
 ---
 
 ## 🛠️ Tecnologías
 
-- 🐍 Python (NLP, automatización, backend)
-- 💻 C#
-- 🗄️ SQL
+- 🐍 Python
+- 🐘 PHP
+- ⚛️ Next.js
+- 🔷 TypeScript
+- 🗄️ MySQL / SQL
 - 🌐 JavaScript
 - 🎨 HTML / CSS
-- 🐘 PHP
-- 🧩 WordPress
+- 🧪 Vitest / testing
+- 🔐 JWT / CSRF
 
 ---
 
 ## 📈 Actualmente
 
-- Mejorando arquitectura de software
-- Profundizando en NLP y sistemas inteligentes
-- Construyendo proyectos para portafolio profesional
+- Mejorando diseño y arquitectura de software
+- Profundizando en sistemas backend y observabilidad
+- Construyendo proyectos orientados a portfolio técnico real
 
 ---
 
