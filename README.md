@@ -1,64 +1,119 @@
-# 👋 Hola, soy Michael
+# Michael Heredia
 
-💻 Estudiante de Desarrollo de Software construyendo proyectos fullstack con foco en arquitectura, lógica y sistemas mantenibles.  
-🧠 Interesado en backend, NLP, contratos entre capas y diseño defensivo.  
-🚀 Construyendo un portafolio orientado a proyectos reales y criterio técnico.
+Estudiante de Desarrollo de Software enfocado en backend, arquitectura de sistemas y aplicaciones fullstack mantenibles.
+
+Interesado en:
+
+* diseño de sistemas
+* contratos entre capas
+* concurrencia y consistencia
+* seguridad aplicada
+* testing automatizado
+* diseño defensivo
+* arquitectura backend
+
+Actualmente construyendo proyectos orientados a software real, con énfasis en mantenibilidad, validación de invariantes y decisiones técnicas explícitas.
 
 ---
 
-## 🚀 Proyecto destacado
+## Proyectos destacados
 
-### 🌸 FlowerMatch
+### Sistema de Evaluación Académica
+
+🔗 https://github.com/DmeshellHeredia/sistema-evaluacion-academica
+
+Sistema académico fullstack construido con ASP.NET Core y Next.js, enfocado en reglas de dominio reales, concurrencia y arquitectura mantenible.
+
+Características principales:
+
+* Arquitectura en capas (Domain / Application / Infrastructure / API)
+* Frontend en Next.js + TypeScript
+* SQL Server + Entity Framework Core
+* Inscripciones con transacciones SERIALIZABLE y protección contra race conditions
+* JWT + invalidación de sesiones mediante SecurityStamp
+* LMS por sección con actividades, entregas, anuncios y calificaciones
+* Soft delete global con query filters automáticos
+* Control de ownership por rol y sección
+* 495+ unit tests y 200+ integration tests con Testcontainers
+* Concurrency tests reales sobre SQL Server
+* CI automatizado para backend y frontend
+
+Tecnologías:
+ASP.NET Core · C# · SQL Server · EF Core · Next.js · React · TypeScript · TailwindCSS · TanStack Query · xUnit · Testcontainers · JWT
+
+---
+
+### FlowerMatch
+
 🔗 https://github.com/DmeshellHeredia/flowermatch
 
-Sistema de recomendación floral fullstack con fallback multinivel (Python → PHP → TypeScript), degradación explícita y validación de contratos entre capas.
+Sistema de recomendación floral fullstack con fallback multinivel entre motores de recomendación y validación explícita de contratos entre capas.
 
-- 🌐 Frontend en Next.js + TypeScript
-- 🐘 Backend API en PHP
-- 🧠 Motor de recomendaciones en Python
-- 🔄 Fallback automático entre motores de recomendación
-- 🔐 JWT en cookies httpOnly + protección CSRF
-- 🧪 ~500 verificaciones automatizadas entre frontend, backend y Python
-- 🛡️ Validaciones backend, rate limiting y checks preventivos de integridad
-- 📦 Tooling para sincronizar datos compartidos entre capas
+Características principales:
+
+* Frontend en Next.js + TypeScript
+* Backend API en PHP
+* Motor de recomendaciones en Python
+* Fallback automático entre motores
+* JWT en cookies httpOnly + protección CSRF
+* Validación de contratos entre servicios
+* Tooling para sincronización de datos compartidos
+* ~500 verificaciones automatizadas
+
+Tecnologías:
+Next.js · TypeScript · PHP · Python · MySQL · JWT · CSRF · Vitest
 
 ---
 
-### 🎓 ITLA Chatbot (IA local)
+### ITLA Chatbot
+
 🔗 https://github.com/DmeshellHeredia/itla-chatbot
 
-Asistente virtual inteligente para el Instituto Tecnológico de Las Américas (ITLA), desarrollado completamente en Python con enfoque híbrido de NLP.
+Asistente virtual offline para el Instituto Tecnológico de Las Américas (ITLA), construido en Python con enfoque híbrido de NLP.
 
-- 🔎 Matching por keywords + fuzzy matching + búsqueda semántica (FAISS)
-- ⚡ Funciona 100% offline (sin APIs externas)
-- 🌐 Interfaz web con Gradio + modo CLI
-- 🧪 Tests automatizados
-- 📚 Sistema escalable basado en intents y variantes
+Características principales:
 
----
+* Matching por keywords + fuzzy matching
+* Búsqueda semántica con FAISS
+* Funcionamiento 100% offline
+* Interfaz web con Gradio
+* Modo CLI
+* Sistema basado en intents escalables
+* Tests automatizados
 
-## 🛠️ Tecnologías
-
-- 🐍 Python
-- 🐘 PHP
-- ⚛️ Next.js
-- 🔷 TypeScript
-- 🗄️ MySQL / SQL
-- 🌐 JavaScript
-- 🎨 HTML / CSS
-- 🧪 Vitest / testing
-- 🔐 JWT / CSRF
+Tecnologías:
+Python · FAISS · NLP · Gradio · CLI · Testing
 
 ---
 
-## 📈 Actualmente
+## Tecnologías
 
-- Mejorando diseño y arquitectura de software
-- Profundizando en sistemas backend y observabilidad
-- Construyendo proyectos orientados a portfolio técnico real
+Backend:
+C# · ASP.NET Core · Python · PHP · Node.js
+
+Frontend:
+Next.js · React · TypeScript · TailwindCSS
+
+Bases de datos:
+SQL Server · MySQL · Entity Framework Core
+
+Testing:
+xUnit · Testcontainers · Vitest · Playwright
+
+Otros:
+JWT · REST APIs · Docker · GitHub Actions · TanStack Query
 
 ---
 
-## 📫 Contacto
+## Actualmente
 
-🔗 GitHub: https://github.com/DmeshellHeredia
+* Profundizando en backend y arquitectura de sistemas
+* Mejorando criterio técnico y diseño mantenible
+* Construyendo proyectos orientados a software real
+
+---
+
+## Contacto
+
+GitHub:
+https://github.com/DmeshellHeredia
